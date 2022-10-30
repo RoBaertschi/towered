@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uzC/v4hJRbtVvzKxr3KH2oFNWmzpp/24u1c6Hk3A/K9Z8NSZUamn4ggI+yA+8v32+RpCh99gcKAge6Q86TwwUw==",
+  "success": true,
+  "projectFilePath": "D:\\Documents\\MyMonoProject\\MyMonoProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.2\\microsoft.netframework.referenceassemblies.net472.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+D:\Documents\MyMonoProject\.mono\temp\bin\Debug\MyMonoProject.dll
+D:\Documents\MyMonoProject\.mono\temp\bin\Debug\MyMonoProject.pdb
+D:\Documents\MyMonoProject\.mono\temp\obj\Debug\MyMonoProject.csproj.AssemblyReference.cache
+D:\Documents\MyMonoProject\.mono\temp\obj\Debug\MyMonoProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\MyMonoProject\.mono\temp\obj\Debug\MyMonoProject.AssemblyInfoInputs.cache
+D:\Documents\MyMonoProject\.mono\temp\obj\Debug\MyMonoProject.AssemblyInfo.cs
+D:\Documents\MyMonoProject\.mono\temp\obj\Debug\MyMonoProject.csproj.CoreCompileInputs.cache
+D:\Documents\MyMonoProject\.mono\temp\obj\Debug\MyMonoProject.dll
+D:\Documents\MyMonoProject\.mono\temp\obj\Debug\MyMonoProject.pdb
